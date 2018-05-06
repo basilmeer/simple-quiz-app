@@ -1,0 +1,121 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "text": "JSON stands for - ",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Java Object Notation"
+        },
+        {
+          "id": "b",
+          "text": "Javascript Object Narrator"
+        },
+        {
+          "id": "c",
+          "text": "Javascript Object Oriented Notation"
+        },
+        {
+          "id": "d",
+          "text": "Javascript Object Notation"
+        }
+      ],
+      "correct": "d"
+    },
+    {
+      "id": 2,
+      "text": "Which of the following method is used to convert Javascript object to JSON string?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "JSON.parse()"
+        },
+        {
+          "id": "b",
+          "text": "JSON.stringify()"
+        },
+        {
+          "id": "c",
+          "text": "JSON.convertToString()"
+        },
+        {
+          "id": "d",
+          "text": "JSON.converter()"
+        }
+      ],
+      "correct": "b"
+    },
+    {
+      "id": 3,
+      "text": "Which of the following method is used to convert  JSON string to Javascript object?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "JSON.parse()"
+        },
+        {
+          "id": "b",
+          "text": "JSON.stringify()"
+        },
+        {
+          "id": "c",
+          "text": "JSON.convertToString()"
+        },
+        {
+          "id": "d",
+          "text": "JSON.converter()"
+        }
+      ],
+      "correct": "a"
+    },
+    {
+      "id": 4,
+      "text": "Inside which HTML element do we put the JavaScript?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "<js>"
+        },
+        {
+          "id": "b",
+          "text": "<scripting>"
+        },
+        {
+          "id": "c",
+          "text": "<script>"
+        },
+        {
+          "id": "d",
+          "text": "<javascript>"
+        }
+      ],
+      "correct": "c"
+    },
+    {
+      "id": 5,
+      "text": "Where is the correct place to insert a JavaScript?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Both the <head> section and the <body> section are correct"
+        },
+        {
+          "id": "b",
+          "text": "The <head> section"
+        },
+        {
+          "id": "c",
+          "text": "The <body> section"
+        },
+        {
+          "id": "d",
+          "text": "None of these"
+        }
+      ],
+      "correct": "a"
+    }
+  ],
+  "score": 0,
+  "current": 1
+}

@@ -1,0 +1,75 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "text": "What JS library is this app made from?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Vue.js"
+        },
+        {
+          "id": "b",
+          "text": "React.js"
+        },
+        {
+          "id": "c",
+          "text": "jQuery"
+        },
+        {
+          "id": "d",
+          "text": "None of these"
+        }
+      ],
+      "correct": "b"
+    },
+    {
+      "id": 2,
+      "text": "Is there a difference between Git and Github?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Yes"
+        },
+        {
+          "id": "b",
+          "text": "No"
+        },
+        {
+          "id": "c",
+          "text": "Maybe"
+        },
+        {
+          "id": "d",
+          "text": "They're the same"
+        }
+      ],
+      "correct": "a"
+    },
+    {
+      "id": 3,
+      "text": "When was ES6 released?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "2007"
+        },
+        {
+          "id": "b",
+          "text": "2008"
+        },
+        {
+          "id": "c",
+          "text": "2009"
+        },
+        {
+          "id": "d",
+          "text": "2010"
+        }
+      ],
+      "correct": "a"
+    }
+  ],
+  "score": 0,
+  "current": 1
+}
